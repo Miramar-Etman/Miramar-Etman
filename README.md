@@ -1,5 +1,6 @@
 ### Hi there 👋
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Miramar-Etman)](https://github.com/ryo-ma/github-profile-trophy)
+https://github-profile-trophy.vercel.app/?username=Miramar-Etman&theme=algolia
 <!--
 **Miramar-Etman/Miramar-Etman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
