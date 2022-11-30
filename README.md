@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on Natural Language Processing Applications
 - 🌱 I’m currently learning Ontology Engineering
 - 🤔 I’m looking for help with Good Ontological Tools
+- 📫 How to reach me: miramar.etman@gmail.com
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Miramar-Etman&label=Profile%20views&color=0e75b6&style=flat" alt="miramar-etman" /> </p>
 
