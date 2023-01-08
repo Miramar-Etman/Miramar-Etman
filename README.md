@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Miramar, I am Coffee-Lover | ITIan 👩‍💻 | Udacitian | Pythonista | Teaching Assistant 🧑‍🏫
+### Hi there 👋 My name is Miramar, I am Coffee-Lover | NLPer | ITIan 👩‍💻 | Udacitian | Pythonista | Teaching Assistant 🧑‍🏫
 
 - 🔭 I’m currently working on Natural Language Processing Applications
 - 🌱 I’m currently learning Ontology Engineering
